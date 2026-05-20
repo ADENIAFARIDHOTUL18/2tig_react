@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Nasi Goreng",
+    "price": 15000,
+    "image": "https://source.unsplash.com/200x200/?fried-rice"
+  },
+  {
+    "id": 2,
+    "name": "Mie Ayam",
+    "price": 12000,
+    "image": "https://source.unsplash.com/200x200/?noodles"
+  },
+  {
+    "id": 3,
+    "name": "Ayam Geprek",
+    "price": 18000,
+    "image": "https://source.unsplash.com/200x200/?chicken"
+  }
+]

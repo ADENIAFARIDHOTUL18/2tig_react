@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Andi",
+    "review": "Makanannya enak banget!",
+    "avatar": "https://avatar-placeholder.iran.liara.run/public/1"
+  },
+  {
+    "id": 2,
+    "name": "Siti",
+    "review": "Pengiriman cepat!",
+    "avatar": "https://avatar-placeholder.iran.liara.run/public/2"
+  },
+  {
+    "id": 3,
+    "name": "Budi",
+    "review": "Harga murah dan kualitas bagus",
+    "avatar": "https://avatar-placeholder.iran.liara.run/public/3"
+  },
+  {
+    "id": 4,
+    "name": "Rina",
+    "review": "Pelayanan ramah",
+    "avatar": "https://avatar-placeholder.iran.liara.run/public/4"
+  },
+  {
+    "id": 5,
+    "name": "Dewi",
+    "review": "Recommended banget!",
+    "avatar": "https://avatar-placeholder.iran.liara.run/public/5"
+  }
+]
